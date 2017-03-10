@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>KeepItSafe.xcscheme</key>
+		<key>Touch Keyboard.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>46489DE11E68F78000EEB485</key>
+		<key>461E50211E728B5400F96BD1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

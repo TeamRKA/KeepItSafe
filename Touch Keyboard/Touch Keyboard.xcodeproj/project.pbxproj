@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		46489DE61E68F78000EEB485 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46489DE51E68F78000EEB485 /* AppDelegate.swift */; };
-		46489DE81E68F78000EEB485 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46489DE71E68F78000EEB485 /* ViewController.swift */; };
-		46489DEB1E68F78000EEB485 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46489DE91E68F78000EEB485 /* Main.storyboard */; };
-		46489DEE1E68F78000EEB485 /* KeepItSafe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 46489DEC1E68F78000EEB485 /* KeepItSafe.xcdatamodeld */; };
-		46489DF01E68F78000EEB485 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46489DEF1E68F78000EEB485 /* Assets.xcassets */; };
-		46489DF31E68F78000EEB485 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46489DF11E68F78000EEB485 /* LaunchScreen.storyboard */; };
+		461E50261E728B5400F96BD1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461E50251E728B5400F96BD1 /* AppDelegate.swift */; };
+		461E50281E728B5400F96BD1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 461E50271E728B5400F96BD1 /* ViewController.swift */; };
+		461E502B1E728B5400F96BD1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 461E50291E728B5400F96BD1 /* Main.storyboard */; };
+		461E502E1E728B5400F96BD1 /* Touch_Keyboard.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 461E502C1E728B5400F96BD1 /* Touch_Keyboard.xcdatamodeld */; };
+		461E50301E728B5400F96BD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 461E502F1E728B5400F96BD1 /* Assets.xcassets */; };
+		461E50331E728B5400F96BD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 461E50311E728B5400F96BD1 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		46489DE21E68F78000EEB485 /* KeepItSafe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KeepItSafe.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		46489DE51E68F78000EEB485 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		46489DE71E68F78000EEB485 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		46489DEA1E68F78000EEB485 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		46489DED1E68F78000EEB485 /* KeepItSafe.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = KeepItSafe.xcdatamodel; sourceTree = "<group>"; };
-		46489DEF1E68F78000EEB485 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		46489DF21E68F78000EEB485 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		46489DF41E68F78000EEB485 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		461E50221E728B5400F96BD1 /* Touch Keyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Touch Keyboard.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		461E50251E728B5400F96BD1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		461E50271E728B5400F96BD1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		461E502A1E728B5400F96BD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		461E502D1E728B5400F96BD1 /* Touch_Keyboard.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Touch_Keyboard.xcdatamodel; sourceTree = "<group>"; };
+		461E502F1E728B5400F96BD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		461E50321E728B5400F96BD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		461E50341E728B5400F96BD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		46489DDF1E68F78000EEB485 /* Frameworks */ = {
+		461E501F1E728B5400F96BD1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,74 +37,74 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		46489DD91E68F78000EEB485 = {
+		461E50191E728B5400F96BD1 = {
 			isa = PBXGroup;
 			children = (
-				46489DE41E68F78000EEB485 /* KeepItSafe */,
-				46489DE31E68F78000EEB485 /* Products */,
+				461E50241E728B5400F96BD1 /* Touch Keyboard */,
+				461E50231E728B5400F96BD1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		46489DE31E68F78000EEB485 /* Products */ = {
+		461E50231E728B5400F96BD1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				46489DE21E68F78000EEB485 /* KeepItSafe.app */,
+				461E50221E728B5400F96BD1 /* Touch Keyboard.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		46489DE41E68F78000EEB485 /* KeepItSafe */ = {
+		461E50241E728B5400F96BD1 /* Touch Keyboard */ = {
 			isa = PBXGroup;
 			children = (
-				46489DE51E68F78000EEB485 /* AppDelegate.swift */,
-				46489DE71E68F78000EEB485 /* ViewController.swift */,
-				46489DE91E68F78000EEB485 /* Main.storyboard */,
-				46489DEF1E68F78000EEB485 /* Assets.xcassets */,
-				46489DF11E68F78000EEB485 /* LaunchScreen.storyboard */,
-				46489DF41E68F78000EEB485 /* Info.plist */,
-				46489DEC1E68F78000EEB485 /* KeepItSafe.xcdatamodeld */,
+				461E50251E728B5400F96BD1 /* AppDelegate.swift */,
+				461E50271E728B5400F96BD1 /* ViewController.swift */,
+				461E50291E728B5400F96BD1 /* Main.storyboard */,
+				461E502F1E728B5400F96BD1 /* Assets.xcassets */,
+				461E50311E728B5400F96BD1 /* LaunchScreen.storyboard */,
+				461E50341E728B5400F96BD1 /* Info.plist */,
+				461E502C1E728B5400F96BD1 /* Touch_Keyboard.xcdatamodeld */,
 			);
-			path = KeepItSafe;
+			path = "Touch Keyboard";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		46489DE11E68F78000EEB485 /* KeepItSafe */ = {
+		461E50211E728B5400F96BD1 /* Touch Keyboard */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 46489DF71E68F78000EEB485 /* Build configuration list for PBXNativeTarget "KeepItSafe" */;
+			buildConfigurationList = 461E50371E728B5400F96BD1 /* Build configuration list for PBXNativeTarget "Touch Keyboard" */;
 			buildPhases = (
-				46489DDE1E68F78000EEB485 /* Sources */,
-				46489DDF1E68F78000EEB485 /* Frameworks */,
-				46489DE01E68F78000EEB485 /* Resources */,
+				461E501E1E728B5400F96BD1 /* Sources */,
+				461E501F1E728B5400F96BD1 /* Frameworks */,
+				461E50201E728B5400F96BD1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = KeepItSafe;
-			productName = KeepItSafe;
-			productReference = 46489DE21E68F78000EEB485 /* KeepItSafe.app */;
+			name = "Touch Keyboard";
+			productName = "Touch Keyboard";
+			productReference = 461E50221E728B5400F96BD1 /* Touch Keyboard.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		46489DDA1E68F78000EEB485 /* Project object */ = {
+		461E501A1E728B5400F96BD1 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0820;
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Ryuji Mano";
 				TargetAttributes = {
-					46489DE11E68F78000EEB485 = {
+					461E50211E728B5400F96BD1 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = 8A4H2873BE;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 46489DDD1E68F78000EEB485 /* Build configuration list for PBXProject "KeepItSafe" */;
+			buildConfigurationList = 461E501D1E728B5400F96BD1 /* Build configuration list for PBXProject "Touch Keyboard" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -112,55 +112,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 46489DD91E68F78000EEB485;
-			productRefGroup = 46489DE31E68F78000EEB485 /* Products */;
+			mainGroup = 461E50191E728B5400F96BD1;
+			productRefGroup = 461E50231E728B5400F96BD1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				46489DE11E68F78000EEB485 /* KeepItSafe */,
+				461E50211E728B5400F96BD1 /* Touch Keyboard */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		46489DE01E68F78000EEB485 /* Resources */ = {
+		461E50201E728B5400F96BD1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46489DF31E68F78000EEB485 /* LaunchScreen.storyboard in Resources */,
-				46489DF01E68F78000EEB485 /* Assets.xcassets in Resources */,
-				46489DEB1E68F78000EEB485 /* Main.storyboard in Resources */,
+				461E50331E728B5400F96BD1 /* LaunchScreen.storyboard in Resources */,
+				461E50301E728B5400F96BD1 /* Assets.xcassets in Resources */,
+				461E502B1E728B5400F96BD1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		46489DDE1E68F78000EEB485 /* Sources */ = {
+		461E501E1E728B5400F96BD1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				46489DE81E68F78000EEB485 /* ViewController.swift in Sources */,
-				46489DEE1E68F78000EEB485 /* KeepItSafe.xcdatamodeld in Sources */,
-				46489DE61E68F78000EEB485 /* AppDelegate.swift in Sources */,
+				461E50281E728B5400F96BD1 /* ViewController.swift in Sources */,
+				461E50261E728B5400F96BD1 /* AppDelegate.swift in Sources */,
+				461E502E1E728B5400F96BD1 /* Touch_Keyboard.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		46489DE91E68F78000EEB485 /* Main.storyboard */ = {
+		461E50291E728B5400F96BD1 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				46489DEA1E68F78000EEB485 /* Base */,
+				461E502A1E728B5400F96BD1 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		46489DF11E68F78000EEB485 /* LaunchScreen.storyboard */ = {
+		461E50311E728B5400F96BD1 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				46489DF21E68F78000EEB485 /* Base */,
+				461E50321E728B5400F96BD1 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -168,7 +168,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		46489DF51E68F78000EEB485 /* Debug */ = {
+		461E50351E728B5400F96BD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -217,7 +217,7 @@
 			};
 			name = Debug;
 		};
-		46489DF61E68F78000EEB485 /* Release */ = {
+		461E50361E728B5400F96BD1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -259,27 +259,27 @@
 			};
 			name = Release;
 		};
-		46489DF81E68F78000EEB485 /* Debug */ = {
+		461E50381E728B5400F96BD1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 8A4H2873BE;
-				INFOPLIST_FILE = KeepItSafe/Info.plist;
+				INFOPLIST_FILE = "Touch Keyboard/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ryujimano.KeepItSafe;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ryujimano.Touch-Keyboard";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
-		46489DF91E68F78000EEB485 /* Release */ = {
+		461E50391E728B5400F96BD1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 8A4H2873BE;
-				INFOPLIST_FILE = KeepItSafe/Info.plist;
+				INFOPLIST_FILE = "Touch Keyboard/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.ryujimano.KeepItSafe;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.ryujimano.Touch-Keyboard";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -288,37 +288,37 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		46489DDD1E68F78000EEB485 /* Build configuration list for PBXProject "KeepItSafe" */ = {
+		461E501D1E728B5400F96BD1 /* Build configuration list for PBXProject "Touch Keyboard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46489DF51E68F78000EEB485 /* Debug */,
-				46489DF61E68F78000EEB485 /* Release */,
+				461E50351E728B5400F96BD1 /* Debug */,
+				461E50361E728B5400F96BD1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		46489DF71E68F78000EEB485 /* Build configuration list for PBXNativeTarget "KeepItSafe" */ = {
+		461E50371E728B5400F96BD1 /* Build configuration list for PBXNativeTarget "Touch Keyboard" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				46489DF81E68F78000EEB485 /* Debug */,
-				46489DF91E68F78000EEB485 /* Release */,
+				461E50381E728B5400F96BD1 /* Debug */,
+				461E50391E728B5400F96BD1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 
 /* Begin XCVersionGroup section */
-		46489DEC1E68F78000EEB485 /* KeepItSafe.xcdatamodeld */ = {
+		461E502C1E728B5400F96BD1 /* Touch_Keyboard.xcdatamodeld */ = {
 			isa = XCVersionGroup;
 			children = (
-				46489DED1E68F78000EEB485 /* KeepItSafe.xcdatamodel */,
+				461E502D1E728B5400F96BD1 /* Touch_Keyboard.xcdatamodel */,
 			);
-			currentVersion = 46489DED1E68F78000EEB485 /* KeepItSafe.xcdatamodel */;
-			path = KeepItSafe.xcdatamodeld;
+			currentVersion = 461E502D1E728B5400F96BD1 /* Touch_Keyboard.xcdatamodel */;
+			path = Touch_Keyboard.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};
 /* End XCVersionGroup section */
 	};
-	rootObject = 46489DDA1E68F78000EEB485 /* Project object */;
+	rootObject = 461E501A1E728B5400F96BD1 /* Project object */;
 }
