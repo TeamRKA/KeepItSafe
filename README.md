@@ -1,6 +1,6 @@
-# Team Project - *Keep It Safe*
+# Team Project - *Touch Keyboard*
 
-**Keep It Safe** is an app that ensures the safety of people while partying. It asks the user to select a few users whom they can trust. It checks your location regualrly and if you're not within a certain radius of the fellow users, it sends out notifications to your preferred list of people (SMS). Moreover, it also checks if the user gets back home safely.
+**Touch Keyboard** is an app that analyzes user text using IBM's Alchemy Language API to send emotions/feelings along with their message. This will allow the message recipient to know the sender's emotions and respond accordingly.
 
 Time spent: **X** hours spent in total
 
@@ -9,16 +9,15 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 - [ ] Application UI using AutoLayout
-- [ ] Implement current location using Google Maps API
-- [ ] SMS text service (Twilio)
-- [ ] User preference list
+- [ ] Implement iOS Keyboards
+- [ ] Implement messaging table view
 
 The following **optional** features are implemented:
 
-- [ ] Send notification when user leaves area
-- [ ] Send notification when user feels unsafe
-- [ ] Send route to friend to easily navigate to the user
-
+- [ ] Add emojis for mood
+- [ ] Add local chat feature
+- [ ] Support Bitmoji 
+- [ ] Notification support
 
 ## Video Walkthrough 
 
