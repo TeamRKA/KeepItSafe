@@ -19,6 +19,10 @@ The following **optional** features are implemented:
 - [ ] Support Bitmoji 
 - [ ] Notification support
 
+## Wireframe
+
+![alt text] (https://github.com/TeamRKA/TouchKeyboard/blob/master/TouchKeyboard.JPG)
+
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
