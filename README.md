@@ -1,5 +1,5 @@
 # Team Project - *Touch Keyboard*
-
+<!--
 **Touch Keyboard** is an app that analyzes user text using IBM's Alchemy Language API to send emotions/feelings along with their message. This will allow the message recipient to know the sender's emotions and respond accordingly.
 
 Time spent: **X** hours spent in total
@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 ## Wireframe
 
-![alt text] (https://github.com/TeamRKA/TouchKeyboard/blob/master/TouchKeyboard.JPG)
+![alt text](https://github.com/TeamRKA/TouchKeyboard/blob/master/TouchKeyboard.JPG)
 
 ## Video Walkthrough 
 
@@ -30,9 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-
+-->
 ## License
 
     Copyright 2017 Team RKA
